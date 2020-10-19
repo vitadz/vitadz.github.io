@@ -4,11 +4,14 @@
     background-color: lavender;
     height: 710px;
 }
+.l-side .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .l-side .image img {
     height: 160px;
     width: 170px;
-    margin-left: auto;
-    margin-right: auto;
 }
 .title {
     font-size: 14px;
